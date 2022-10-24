@@ -3,28 +3,30 @@
     <title>Gestion de contenu</title>
     <link href="https://claire-chardo.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://claire-chardo.github.io/gh-pages" />
-    <updated>2022-10-24T19:23:21+02:00</updated>
+    <updated>2022-10-24T19:25:21+02:00</updated>
     <author>
         <name>Claire Chardonnens</name>
     </author>
     <id>https://claire-chardo.github.io/gh-pages</id>
 
     <entry>
-        <title>Accuei</title>
+        <title>Accueil</title>
         <author>
             <name>Claire Chardonnens</name>
         </author>
         <link href="https://claire-chardo.github.io/gh-pages/accuei.html"/>
         <id>https://claire-chardo.github.io/gh-pages/accuei.html</id>
 
-        <updated>2022-10-24T19:23:21+02:00</updated>
+        <updated>2022-10-24T19:25:21+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://claire-chardo.github.io/gh-pages/media/posts/2/pexels-irene-lasus-88517.jpg" alt="" />
                     Ceci est une page d'accueil.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://claire-chardo.github.io/gh-pages/media/posts/2/pexels-irene-lasus-88517.jpg" alt="" />
                 <p>Ceci est une page d'accueil.</p>
             ]]>
         </content>
