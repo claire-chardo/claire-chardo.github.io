@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://claire-chardo.github.io/gh-pages/accuei.html",
+            "url": "https://claire-chardo.github.io/gh-pages/accuei.html",
+            "title": "Accuei",
+            "summary": "Ceci est une page d'accueil.",
+            "content_html": "<p>Ceci est une page d'accueil.</p>",
+            "author": {
+                "name": "Claire Chardonnens"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-24T19:23:21+02:00",
+            "date_modified": "2022-10-24T19:23:21+02:00"
+        },
+        {
             "id": "https://claire-chardo.github.io/gh-pages/nouvelle-page.html",
             "url": "https://claire-chardo.github.io/gh-pages/nouvelle-page.html",
             "title": "Nouvelle page",
